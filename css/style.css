@@ -1,0 +1,25 @@
+header h1 {
+  color: green;
+}
+
+header ul {
+  list-style: none;
+}
+
+header a {
+  color: orange;
+}
+
+h1 {
+  color: red;
+  font-size: 20px;
+}
+
+.card h2 {
+  font-size: 40px;
+}
+
+.card p {
+  color: #000;
+}
+/*# sourceMappingURL=style.css.map */
